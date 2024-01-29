@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
-    private fun showToast(msz : String){
+     fun showToast(msz : String){
       ShowToast(msz)
     }
 }

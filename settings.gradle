@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "DemoLib"
 include ':app'
 include ':CustomeToast'
+include ':mylibrary'
